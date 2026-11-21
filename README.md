@@ -2,7 +2,7 @@
 
 Offline model runner for executing Qwen, Bonsai 27B, and open-weight GGUF models directly on your local GPU with zero telemetry.
 
-<img width="844" height="844" alt="images1" src="https://github.com/user-attachments/assets/2def1d68-ca47-4101-8f08-bf80101dfced" />
+<img width="244" height="244" alt="images1" src="https://github.com/user-attachments/assets/2def1d68-ca47-4101-8f08-bf80101dfced" />
 <img width="897" height="585" alt="images2" src="https://github.com/user-attachments/assets/bb9bf3a4-1800-4f53-b5b9-da278d86bc3e" />
 
 ## Running Models with Modelfiles
